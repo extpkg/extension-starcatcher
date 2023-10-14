@@ -1,7 +1,7 @@
 {
   "name": "extension-starcatcher",
-  "version": "1.0.2",
-  "description": "Extension description",
+  "version": "1.0.3",
+  "description": "Leap, run, collect stars! Navigate challenges in a pixel-perfect world!",
   "type": "module",
   "scripts": {
     "build": "cross-env NODE_ENV=production node ./scripts/build.mjs",

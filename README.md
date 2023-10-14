@@ -1,6 +1,6 @@
-# Extension name
+# Starcatcher
 
-Extension description
+Leap, run, collect stars! Navigate challenges in a pixel-perfect world!
 
 ## Build
 
